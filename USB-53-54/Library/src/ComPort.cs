@@ -6,7 +6,7 @@ using System.Threading;
 using System.Threading.Tasks;
 using System.IO.Ports;
 
-namespace LibraryS8_53
+namespace Library
 {
     public class EventArgsReceiveComPort : EventArgs
     {

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace LibraryS8_53
+namespace Library
 {
     public abstract class Interface
     {

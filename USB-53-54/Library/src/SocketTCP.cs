@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 using System.Net;
 using System.Net.Sockets;
 
-namespace LibraryS8_53
+namespace Library
 {
     public class StateObject
     {
